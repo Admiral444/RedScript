@@ -37,7 +37,8 @@ press 4: To change text/font colour
 press 5: To create new user 
 press 6: To find Ip-address of website
 press 7: To reboot the system
-press 8: To Exit""")
+press 8: To boot the system
+press 9: To Exit""")
 
 #-----------------------------------------------------
 
